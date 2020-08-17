@@ -139,7 +139,7 @@
 - Given: On the calculator
 - When: Enter first "number",
   and then enter "multiplication" operator,
-  and then some irrelevent operator.
+  and then some irrelevant operator.
   and enter second "number",
    and press "equals".
 - Then: Prefer the last operator.
