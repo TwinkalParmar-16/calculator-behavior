@@ -9,12 +9,13 @@
    and press "equals".
 - Then: Display "added number" as the result.
 
+
 ## Scenario: Addition of two negative numbers
 
 - Given: The calculator is turned on
-- When: Enter first "negative number using unary minus operator",
+- When: Enter first "negative number(using unary minus operator)",
   and then enter "plus" operator,
-  and enter second "negative number using unary minus operator",
+  and enter second "negative number(using unary minus operator)",
    and press "equals".
 - Then: Display "added number" as the result.
 
@@ -27,12 +28,12 @@
    and press "equals".
 - Then: Display "added number" as the result.
 
-## Scenario: Addition of positive and negative number
+## Scenario: Addition of +ve and -ve number
 
 - Given: The calculator is turned on
-- When: Enter first "positive number or negative number using unary minus operator",
+- When: Enter first "positive number/negative number(using unary minus operator)",
   and then enter "plus" operator,
-  and enter second "negative number using unary minus operator or positive number",
+  and enter second "negative number(using unary minus operator)/positive number",
    and press "equals".
 - Then: Display "added number" as the result.
 
@@ -64,9 +65,8 @@
 - When: Again press "add" operator,
          then enter third "number",
          then press "equal".
-- Then: Use intermediate result as first number and add third
-        number with this as second number and
-       display the final result.
+- Then: Use intermediate result as first number and add third number with this as second number and 
+        display the final result. 
 
 ## Scenario: Adding numbers where the result goes out of range
 
@@ -77,12 +77,12 @@
    and press "equals".
 - Then: Display "Out of range message" as the result.
 
-## Scenario: 6+* is provided as input
+## Scenario: 6+* is provided as input?
 
 - Given: The calculator is turned on
 - When: Enter "6",
   and then enter "plus" operator,
-  and enter second "mutiplication" operator,
+  and enter the second "mutiplication" operator,
    and press "equals".
 - Then: Display "Invalid input message" as the result.
 
@@ -104,3 +104,5 @@
    and press "equals".
 - Then: Interchange given input numbers and
         display "added number" as the result.
+
+
