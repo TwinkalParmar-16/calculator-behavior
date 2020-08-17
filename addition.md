@@ -12,10 +12,12 @@
 ## Scenario: Addition of two negative numbers
 
 - Given: The calculator is turned on
-- When: Enter "unary minus" and then first "number",
+- When: Enter "unary minus",
+  and then first "number",
   and then enter "plus" operator,
-  and enter second "negative number using unary minus operator",
-   and press "equals".
+  and enter "unary minus",
+  and then second "number",
+  and press "equals".
 - Then: Display "added number" as the result.
 
 ## Scenario: Addition of fractions
