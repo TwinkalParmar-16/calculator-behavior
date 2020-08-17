@@ -105,7 +105,7 @@
   and then enter "division" operator,
   and enter second "factional number",
    and press "equals".
-- Then: Perfoem the same opertion as in the previous case.
+- Then: Perform the same opertion as last case.
         division with more than two numbers.
 
 ## Scenario: Simple division
