@@ -1,6 +1,6 @@
 # Multiplication
 
-## Scenario: Result Overflow
+## Scenario: Result overflow
 
 - Given: On the calculator
 - When: Enter first "number",
