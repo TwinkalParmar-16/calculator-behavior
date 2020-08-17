@@ -50,7 +50,7 @@
 - Given: On the calculator
 - When: Enter first "decimal number",
   and then enter "multiplication" operator,
-   then enter seconf "decimal number",
+   then enter second "decimal number",
    and press "equals".
 - Then: Display "multiplied number" as the result.
 
@@ -59,7 +59,7 @@
 - Given: On the calculator
 - When: Enter first "irrational number",
   and then enter "multiplication" operator,
-   then enter seconf "irrational number",
+   then enter second "irrational number",
    and press "equals".
 - Then: Display "multiplied number" as the result.
 
@@ -132,8 +132,7 @@
   and then enter "multiplication" operator,
   and enter second "number",
    and press "equals".
-- Then: Only prefer the fist multiplication operator
-and ignore the rest.Display "multiplied number" as the result.
+- Then: Use only one multiplication operator and display "multiplied" result.
 
 ## Scenario:Interleaving operators
 
