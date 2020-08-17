@@ -11,7 +11,6 @@
 
 ## Scenario: Addition of two negative numbers
 
-
 - Given: The calculator is turned on
 - When: Enter first "negative number",
   and then enter "plus" operator,
