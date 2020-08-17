@@ -2,7 +2,7 @@
 
 ## Scenario: Addition of two positive numbers
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "positive number",
   and then enter "plus" operator,
   and enter second "positive number",
@@ -11,7 +11,7 @@
 
 ## Scenario: Addition of two negative numbers
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "negative number",
   and then enter "plus" operator,
   and enter second "negative number",
@@ -20,7 +20,7 @@
 
 ## Scenario: Addition of fractions
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "decimal point number",
   and then enter "plus" operator,
   and enter second "decimal point",
@@ -29,7 +29,7 @@
 
 ## Scenario: Addition of positive and negative number
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "positive number or negative number",
   and then enter "plus" operator,
   and enter second "negative number or positive number",
@@ -38,7 +38,7 @@
 
 ## Scenario: Addition of decimals
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "decimal point number",
   and then enter "plus" operator,
   and enter second "decimal point",
@@ -47,7 +47,7 @@
 
 ## Scenario: Typing operator more than once
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "number",
   and then enter "plus" operator,
   and enter again any "operator",
@@ -56,7 +56,7 @@
 
 ## Scenario: Addition of more than 2 numbers
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "number",
   and then enter second "number",
    and press "equals".
@@ -70,7 +70,7 @@
 
 ## Scenario: Adding numbers where the result goes out of range
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "number/large size number",
   and then enter "plus" operator,
   and enter second "number/large size number",
@@ -79,7 +79,7 @@
 
 ## Scenario: 6+* is provided as input
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter "6",
   and then enter "plus" operator,
   and enter "star" operator,
@@ -88,7 +88,7 @@
 
 ## Scenario: Identity operation
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "number",
   and then enter "plus" operator,
    and press "equals".
@@ -97,7 +97,7 @@
 
 ## Scenario: Converse operation
 
-- Given: The calculator is turned on
+- Given: On the calculator
 - When: Enter first "number",
   and then enter "plus" operator,
   and then enter "second" number,
