@@ -1,17 +1,12 @@
 # Addition
 
-Scenario: (describe a scenario here)
-  
-  Given (state the initial condition)
+## Scenario: Addition of two positive numbers.
 
-  When (state the event)
-  
-  Then (state the effect)
+- Given: The calculator is turned on
+- When: Enter first "positive number",
+  and then enter "plus" operator,
+  and enter second "positive number",
+   and press "equals".
+- Then: Display "added number" as the result.
 
-Scenario: (describe a scenario here)
-  
-  Given (state the initial condition)
-  
-  When (state the event)
-  
-  Then (state the effect)
+
