@@ -124,7 +124,7 @@
    and press "equals".
 - Then: Display the result in some power plus addition number.
 
-## Scenario: Pressing "multiply button" multiple times
+## Scenario: Pressing "multiply button" many times
 
 - Given: On the calculator
 - When: Enter first "number",
@@ -132,7 +132,7 @@
   and then enter "multiplication" operator,
   and enter second "number",
    and press "equals".
-- Then: Use only one multiplication operator and display "multiplied" result.
+- Then: Use one multiplication operator and display "multiplied" result.
 
 ## Scenario:Interleaving operators
 
