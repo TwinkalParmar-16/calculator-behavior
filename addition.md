@@ -84,7 +84,7 @@
 - Given: The calculator is turned on
 - When: Enter "6",
   and then enter "plus" operator,
-  and enter the second "mutiplication" operator,
+  and enter "star" operator,
    and press "equals".
 - Then: Display "Invalid input message" as the result.
 
