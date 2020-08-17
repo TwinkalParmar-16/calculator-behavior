@@ -105,4 +105,3 @@
   and then enter "second" number,
    and press "equals".
 - Then: Display "subtracted number" as the result.
-
