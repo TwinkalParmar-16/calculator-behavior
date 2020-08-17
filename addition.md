@@ -77,7 +77,7 @@
    and press "equals".
 - Then: Display "Out of range message" as the result.
 
-## Scenario: 6+* is provided as input?
+## Scenario: 6+* is provided as input
 
 - Given: The calculator is turned on
 - When: Enter "6",
