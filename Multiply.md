@@ -155,8 +155,3 @@
   and enter second "decimal number",
    and press "equals".
 - Then: Display "multiplied number" with n number after decimal as the result.
-
-
-
-        
-    
