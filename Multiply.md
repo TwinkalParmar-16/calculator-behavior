@@ -104,7 +104,7 @@
 - Then: Use intermediate result as first number and add third
         number with this as second number and
         display the final "multiplied number" as result.
-        
+
 ## Scenario: Complex number multiplication
 
 - Given: On the calculator
