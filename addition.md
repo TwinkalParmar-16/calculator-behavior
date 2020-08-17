@@ -64,7 +64,8 @@
 - When: Again press "add" operator,
          then enter third "number",
          then press "equal".
-- Then: Use intermediate result as first number and add third number with this as second number and 
+- Then: Use intermediate result as first number and add third
+        number with this as second number and 
         display the final result.
 
 ## Scenario: Adding numbers where the result goes out of range
