@@ -12,7 +12,7 @@
 ## Scenario: Addition of two negative numbers
 
 - Given: The calculator is turned on
-- When: Enter first "negative number using unary minus operator",
+- When: Enter "unary minus" and then first "number",
   and then enter "plus" operator,
   and enter second "negative number using unary minus operator",
    and press "equals".
