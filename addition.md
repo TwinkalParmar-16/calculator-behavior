@@ -30,9 +30,9 @@
 ## Scenario: Addition of positive and negative number
 
 - Given: The calculator is turned on
-- When: Enter first "positive number or negative numberusing unary minus operator",
+- When: Enter first "positive number or negative number",
   and then enter "plus" operator,
-  and enter second "negative number using unary minus operator or positive number",
+  and enter second "negative number or positive number",
    and press "equals".
 - Then: Display "added number" as the result.
 
