@@ -1,6 +1,6 @@
 # Division
 
-## Scenario:Division by zero 
+## Scenario:Division by zero
 
 - Given: On the calculator
 - When: Enter first "number",
