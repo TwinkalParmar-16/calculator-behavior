@@ -12,9 +12,9 @@
 ## Scenario: Addition of two negative numbers
 
 - Given: The calculator is turned on
-- When: Enter first "negative number(using unary minus operator)",
+- When: Enter first "negative number-using unary minus operator",
   and then enter "plus" operator,
-  and enter second "negative number(using unary minus operator)",
+  and enter second "negative number-using unary minus operator",
    and press "equals".
 - Then: Display "added number" as the result.
 
@@ -27,12 +27,12 @@
    and press "equals".
 - Then: Display "added number" as the result.
 
-## Scenario: Addition of +ve and -ve number
+## Scenario: Addition of positive and negative number
 
 - Given: The calculator is turned on
-- When: Enter first "positive number/negative number(using unary minus operator)",
+- When: Enter first "positive number or negative number-using unary minus operator",
   and then enter "plus" operator,
-  and enter second "negative number(using unary minus operator)/positive number",
+  and enter second "negative number-using unary minus operator or positive number",
    and press "equals".
 - Then: Display "added number" as the result.
 
