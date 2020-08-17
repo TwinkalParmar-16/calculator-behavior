@@ -67,7 +67,7 @@
 - Then: Use intermediate result as first number and add third
         number with this as second number and
        display the final result.
-       
+
 ## Scenario: Adding numbers where the result goes out of range
 
 - Given: The calculator is turned on
