@@ -54,7 +54,7 @@
    and press "equals".
 - Then: Use last operator and show result accordingly result.
 
-## Scenario: Addition of more than 2 numbers
+## Scenario: Addition of more than two numbers
 
 - Given: On the calculator
 - When: Enter first "number",
