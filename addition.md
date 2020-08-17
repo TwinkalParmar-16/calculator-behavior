@@ -52,7 +52,7 @@
   and then enter "plus" operator,
   and enter again any "operator",
    and press "equals".
-- Then: Display "error message" as the result.
+- Then: Use last operator and show result accordingly result.
 
 ## Scenario: Addition of more than 2 numbers
 
@@ -71,11 +71,11 @@
 ## Scenario: Adding numbers where the result goes out of range
 
 - Given: On the calculator
-- When: Enter first "number/large size number",
+- When: Enter first "number",
   and then enter "plus" operator,
-  and enter second "number/large size number",
+  and enter second "number",
    and press "equals".
-- Then: Display "Out of range message" as the result.
+- Then: Display the result in some power plus number.
 
 ## Scenario: 6+* as an input
 
@@ -84,7 +84,7 @@
   and then enter "plus" operator,
   and enter "star" operator,
    and press "equals".
-- Then: Display "Invalid input message" as the result.
+- Then: Use * as operator and wait for second operand.
 
 ## Scenario: Identity operation
 
