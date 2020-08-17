@@ -132,9 +132,8 @@
   and then enter "multiplication" operator,
   and enter second "number",
    and press "equals".
-- Then: Only prefer the fist multiplication operator 
-        and ignore the rest.Display "multiplied number" 
-        as the result.
+- Then: Only prefer the fist multiplication operator
+and ignore the rest.Display "multiplied number" as the result.
 
 ## Scenario:Interleaving operators
 
